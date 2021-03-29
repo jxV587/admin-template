@@ -1,2 +1,2 @@
 # admin-template
-element后台管理系统模板-123
+element后台管理系统模板
